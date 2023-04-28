@@ -1,4 +1,4 @@
 https://mediafilez.forgecdn.net/files/4353/951/TConstruct-1.18.2-3.6.1.88.jar
 https://mediafilez.forgecdn.net/files/4509/8/TConstruct-1.18.2-3.6.4.113.jar
-aa
 https://speed.hetzner.de/1GB.bin
+http://ipv4.download.thinkbroadband.com/512MB.zip
