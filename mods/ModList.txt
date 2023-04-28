@@ -3,5 +3,3 @@ https://mediafilez.forgecdn.net/files/4509/8/TConstruct-1.18.2-3.6.4.113.jar
 https://speed.hetzner.de/1GB.bin
 http://212.183.159.230/1GB.zip
 https://mediafilez.forgecdn.net/files/4505/385/epicsamurai-0.0.7.jar
-https://mediafilez.forgecdn.net/files/4442/628/blueprint-1.19.2-6.1.2.jar
-https://mediafilez.forgecdn.net/files/4502/300/skeletalremains-1.1.1-1.19.2-forge.jar
