@@ -1,0 +1,456 @@
+{
+  "idas:idas_root": {
+    "criteria": {
+      "always": "2023-06-16 13:46:51 +0200"
+    },
+    "done": true
+  },
+  "vinery:flower_pot": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "vinery:loam_slab": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "vinery:faucet": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "vinery:cherry_planks": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2023-06-16 13:46:51 +0200"
+    },
+    "done": true
+  },
+  "vinery:stripped_cherry_wood": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "nethers_exoticism:nethers_exoticism_adv": {
+    "criteria": {
+      "nethers_exoticism_adv": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2023-06-16 13:47:08 +0200"
+    },
+    "done": false
+  },
+  "vinery:window": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2023-06-16 13:46:51 +0200"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2023-06-16 13:47:08 +0200"
+    },
+    "done": false
+  },
+  "vinery:vinemaker_leggings": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "field": "2023-06-16 13:47:08 +0200",
+      "grassland": "2023-06-16 13:50:11 +0200"
+    },
+    "done": false
+  },
+  "vinery:grapevine_stem": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "friendsandfoes:misc/yellow_dye_from_buttercup": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "vinery:vinemaker_apron": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "vinery:stove": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "vinery:big_table": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "morevillagers:root": {
+    "criteria": {
+      "always": "2023-06-16 13:46:51 +0200"
+    },
+    "done": true
+  },
+  "vinery:cherry_pressure_plate": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2023-06-16 13:51:15 +0200",
+      "minecraft:beach": "2023-06-16 13:51:02 +0200",
+      "minecraft:stony_shore": "2023-06-16 13:50:22 +0200"
+    },
+    "done": false
+  },
+  "vinery:stackable_log": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "vinery:loam_stairs": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "ars_nouveau:root": {
+    "criteria": {
+      "ars_nouveau:worn_notebook": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "vinery:loam": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "undead_unleashed:undead_unleashed": {
+    "criteria": {
+      "undead_unleashed": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "vinery:vinemaker_boots": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "vinery:cherry_fence": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "vinery:basket": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2023-06-16 13:47:08 +0200"
+    },
+    "done": false
+  },
+  "vinery:straw_hat": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2023-06-16 13:46:51 +0200"
+    },
+    "done": true
+  },
+  "vinery:dirt_slab": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "vinery:cherry_stairs": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "vinery:grass_slab": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2023-06-16 13:46:51 +0200"
+    },
+    "done": true
+  },
+  "vinery:flower_box": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "vinery:kitchen_sink": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "knight_quest:kq_quest_source": {
+    "criteria": {
+      "kq_quest_source": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "vinery:cherry_door": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "vinery:wine_rack_3": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "vinery:wine_rack_5": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "vinery:cherry_slab": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "vinery:cooking_pot": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "vinery:cherry_wood": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "vinery:white_grape_crate": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2023-06-16 13:46:51 +0200"
+    },
+    "done": true
+  },
+  "vinery:wood_fired_oven": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "vinery:red_grape_crate": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "vinery:cherry_button": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2023-06-16 13:46:51 +0200"
+    },
+    "done": true
+  },
+  "nature_expansion:first_advancement": {
+    "criteria": {
+      "first_advancement": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "vinery:coarse_dirt_slab": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "vinery:wine_box": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "vinery:campfire": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "vinery:cherry_floorboard": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "miningmaster:miningmaster/root": {
+    "criteria": {
+      "tick": "2023-06-16 13:46:51 +0200"
+    },
+    "done": true
+  },
+  "vinery:wine_rack_1": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "vinery:cherry_sign": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "vinery:wine_rack_2": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "vinery:cherry_trapdoor": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "vinery:cherry_jar": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "vinery:wine_bottle": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "field": "2023-06-16 13:47:08 +0200"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "vinery:dough": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "vinery:grapevine_pot": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "vinery:wine_press": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "vinery:old_cherry_wood": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "vinery:stripped_old_cherry_log": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2023-06-16 13:47:08 +0200"
+    },
+    "done": false
+  },
+  "vinery:fermentation_barrel": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "vinery:cherry_fence_gate": {
+    "criteria": {
+      "has_the_recipe": "2023-06-16 13:46:16 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}

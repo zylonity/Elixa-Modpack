@@ -1,0 +1,17 @@
+{
+	id: "3d36380b-dac7-39a2-b830-81c63f1bcc02"
+	type: "player"
+	player_name: "Xylonity"
+	ranks: {
+		3d36380b-dac7-39a2-b830-81c63f1bcc02: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Xylonity"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFD659"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
