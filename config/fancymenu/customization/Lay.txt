@@ -1,0 +1,104 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.TitleScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = resources/fm/cdasdadasds.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 346
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 8a6d2076-72d8-45e9-8e26-30b0d7ea739f1687088415309
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 108
+  action = deep_customization_element:title_screen_branding
+  actionid = eb8103d5-5693-428b-ae1f-99ca1e2037ed1687088415309
+  y = 467
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 731
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = ebf534f9-5b94-4720-a722-775eb9dd7d441687088415309
+  y = 489
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 583
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 2c3e4ce3-ac13-4fce-a255-4b83b134c7ce1687088415309
+  y = 227
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 343
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = f048628f-e59f-47c8-a574-81cb034437ff1687088415309
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 96963d89-da54-4ae8-ada3-4a18c5f383841687088415309
+  y = 0
+  height = 30
+}
+
+customization {
+  path = resources/fm/logo.png
+  orientation = top-centered
+  x = -80
+  width = 161
+  action = addtexture
+  actionid = bf1b87d2-30bc-44d6-be1a-58418cf1ae571687088425730
+  y = 61
+  height = 100
+}
+
